@@ -1,10 +1,4 @@
-SPOJ:
-=====
+#[SPOJ](http://www.spoj.com/problems/classical/sort=6)
 
-These are the accepted solution to SPOJ problems.
-
-Note:
-=====
-I use it for back-up purpose.
-Please use my code with your own responsibility.
-I am not responsible for anything happens.
+Accepted Solution to SPOJ problems.
+I use it for back-up purpose. You can use it with your own responsibility.
